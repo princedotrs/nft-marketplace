@@ -44,7 +44,7 @@ A decentralized NFT marketplace built on the Solana blockchain using Anchor and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/prince981620/nft-marketplace.git
+   git clone https://github.com/princedotrs/nft-marketplace.git
    cd nft-marketplace
    ```
 
@@ -116,4 +116,4 @@ This project is open source. Please include a license file for your preferred op
 
 ---
 
-**Repository:** [prince981620/nft-marketplace](https://github.com/prince981620/nft-marketplace)
+**Repository:** [princedotrs/nft-marketplace](https://github.com/princedotrs/nft-marketplace)
